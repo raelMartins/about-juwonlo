@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Journey Bloom",
+    "description": "Successfully led development of a travel app for tourist, including conducting user research and developing go-to-market strategy. Monitored usage and conducted user testing, leading to improvements and new feature development.",
+    "url": "https://docs.google.com/presentation/d/1qPoogzjhQQRezP26zeyOo1uh3ZgeSJh3/edit?usp=sharing&ouid=110483188891676918739&rtpof=true&sd=true",
+    "links": [],
+    "technologies": ["presentation", "powerpoint"],
+    "image": "/project-media/journey-bloom.png",
+    "title": "Journey Bloom",
+    "github": ""
+  },
+  {
+    "id": 2,
+    "name": "Acexam (Ace your Exam)",
+    "description": "My team and I designed an app after extensive research and market strategy, for the educational sector that allows people prepare for exams properly.",
+    "url": "https://docs.google.com/presentation/d/1uCFlBEWAmiqjtQP9XFeve4pCj4amBr2_/edit?usp=sharing&ouid=110483188891676918739&rtpof=true&sd=true",
+    "links": [],
+    "technologies": ["presentation", "powerpoint"],
+    "image": "/project-media/acexam.png",
+    "title": "Acexam (Ace your Exam)",
+    "github": ""
+  },
+  {
+    "id": 3,
+    "name": "Balm App",
+    "description": "Balm app is a hypothetical wellness app with a well detailed Product Required Document (PRD) was prepared by me.",
+    "url": "https://drive.google.com/file/d/1qpm6-Lgds-QKcOzlzfXNb0vj7SqJaDaI/view",
+    "links": [],
+    "technologies": ["presentation", "powerpoint", "project-roadmapping"],
+    "image": "/project-media/balm_app.png",
+    "title": "Balm App",
+    "github": ""
+  },
+  {
+    "id": 4,
+    "name": "Kuda Bank Debit Card Designed For Teenagers",
+    "description": "This portfolio explores the features and benefits of the Kuda Bank debit card designed for teenagers. It highlights the advantages of the card, such as its accessibility, affordability, and security, and provides insights into the financial behaviors and preferences of teenagers in Nigeria. The portfolio also includes a review of the market landscape and competition.",
+    "url": "https://drive.google.com/file/d/1d90yJacvjfYb-kaXFpkmBYNaXPfOTbEM/view?usp=sharing",
+    "links": [],
+    "technologies": ["presentation", "powerpoint", "project-roadmapping"],
+    "image": "/project-media/kuda_bank.jpeg",
+    "title": "Kuda Bank Debit Card Designed For Teenagers",
+    "github": ""
+  }
+]

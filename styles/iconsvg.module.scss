@@ -1,0 +1,26 @@
+@keyframes draw {
+  from {
+    stroke-dashoffset: 305;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.myLogo {
+  fill: transparent;
+  stroke: var(--green);
+  stroke-width: 6;
+  transition: 1s;
+  scale: 0.9;
+  .myEm {
+    opacity: 1;
+    transition: 1s;
+  }
+  .myHex {
+    stroke-width: 6;
+    stroke-dasharray: 301;
+    stroke-dashoffset: 301;
+    transition: 1s;
+    animation: draw 1s ease-in-out 4ms forwards;
+  }
+}
