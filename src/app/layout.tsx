@@ -17,6 +17,9 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   title: "The Juwonlo | Creative Strategist | Cinematographer | Visual Storyteller",
   description: "Nigerian-born visual creative bridging cinematography, photography, and creative strategy.",
+  icons: {
+    icon: "/juwonlo_profile_image.jpeg",
+  },
 };
 
 export default function RootLayout({
